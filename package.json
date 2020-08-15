@@ -1,0 +1,23 @@
+{
+  "name": "jorzano-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbookapp/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Josh Orzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbookapp/palindrome/issues"
+  },
+  "homepage": "https://github.com/barbookapp/palindrome#readme"
+}
